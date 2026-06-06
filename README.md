@@ -13,6 +13,7 @@ systems, and optimize user experience. Experienced in Agile environments with a 
 modern development practices. 
 
 👨‍💻 About Me
+
 💼 Software Engineer focused on full-stack development and Salesforce developer
 🚀 Interested in system design, cloud computing, and APIs
 📚 Always learning and improving my development practices
